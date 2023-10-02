@@ -1,0 +1,6 @@
+output:
+Enter the two numbers: 30 20
+the sum of two numbers: 50
+the difference between two numbers: 10
+the product of two numbers: 600
+divide: 1
